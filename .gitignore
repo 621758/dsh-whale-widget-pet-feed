@@ -1,0 +1,11 @@
+# 打包产物（仓库里不需要提交）
+dsh-whale-widget-*.tgz
+dsh-whale-widget-*.zip
+
+# 安装脚本产生的本地备份 / 测试目录
+*.bak-*/
+_testprofile/
+
+# 编辑器 / 系统杂物
+.DS_Store
+Thumbs.db
