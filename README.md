@@ -184,9 +184,8 @@ CSS（同文件 `css = [...]`）：`.dshwv-feed` 的 `right: calc(59.45% + 12%)`
 
 - **本衍生版新增/修改的代码同样按 MIT 授权**：任何人可以自由使用/修改/再分发，只要保留 `LICENSE` 里的版权声明（两行都要留）。
 - `LICENSE` 头部第二行 = **ZJJ**，代表本衍生版新增/修改部分的版权；上游那行（MeteorNOX）必须保留。
-- `LICENSE` 结构 = **标准 MIT 头部（两行版权）+ MIT 正文（逐字保留）+ 末尾一段衍生声明**
-  （说明本仓库是上游的非官方 fork，并写明 ZJJ 的改动同样按上面的 MIT 许可发布）。
-  正文只出现一次、且逐字保留；署名体现在头部两行版权与末尾的衍生声明里。
+- `LICENSE` = **纯 MIT**（标题 + 两行版权 + 逐字正文，正文之后没有其它内容）——
+  这样 GitHub 才能自动识别成 MIT；衍生声明单独放在 [`NOTICE.md`](NOTICE.md)。
 - 素材为什么不套 MIT：美术素材若套 MIT，等于允许他人任意转卖/再许可；本仓库沿用上游惯例，以 **AS-IS + 保留权利** 提供
   （如需变更，改 `PROVENANCE.md` 第五节即可）。
 - **上游仓库**：<https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget>
