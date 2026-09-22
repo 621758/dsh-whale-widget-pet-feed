@@ -1,4 +1,4 @@
-# 小鲸鱼挂件 · 衍生版（摸头切图 / 互动统计 / 投喂）
+# 小鲸鱼挂件 · 衍生版（摸头 / 互动统计 / 投喂）
 
 > **非官方衍生版（unofficial fork）** —— 本仓库 `dsh-whale-widget-pet-feed`，基于
 > [`MeteorNOX/DeepSeek-Balance-Whale-Widget`](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
